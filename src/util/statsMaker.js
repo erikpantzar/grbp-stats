@@ -44,8 +44,12 @@ function statsList(name) {
 
   const stats = [
     {
-      label: 'kph',
-      value: round(getKPHFromPlayer(name)),
+      label: `kph (${round(getTimeplayed(getStatsFromName(name)), 2)})`,
+      value: `${round(getKPHFromPlayer(name))}`,
+    },
+    {
+      label: 'total kills',
+      value: getStat(name, 'EnemiesKilledTotal'),
     },
     {
       label: '% headshot ',
@@ -56,10 +60,7 @@ function statsList(name) {
       label: 'total headshots',
       value: getStat(name, 'HeadshotsKillsTotal'),
     },
-    {
-      label: 'total kills',
-      value: getStat(name, 'EnemiesKilledTotal'),
-    },
+   
     {
       label: 'longest kill',
       value: getStat(name, 'LongestRangeKillsDistance'),
@@ -74,7 +75,7 @@ function statsList(name) {
       ),
     },
     {
-      label: 'revievs',
+      label: 'revives',
       value: getStat(name, 'PlayerRevivedCount'),
     },
     {

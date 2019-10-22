@@ -17,7 +17,7 @@ async function initalizeData() {
       })
     })
 
-  const stats = await fetch('./data/response220.json')
+  const stats = await fetch('./data/response221.json')
     .then(response => response.json())
     .then(data => {
       const profiles = data.profiles.map(profile => {
