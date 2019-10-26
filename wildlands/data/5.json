@@ -1,0 +1,1935 @@
+{
+    "profiles": [
+        {
+            "profileId": "4150cb1d-ee34-4be6-8386-e135e6d93b75",
+            "stats": {
+                "AverageKillDistance": {
+                    "value": "64",
+                    "startDate": "2016-11-07T10:08:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-09-20T20:00:29.632Z"
+                },
+                "Basejumpcountcommunautary": {
+                    "value": "313",
+                    "startDate": "2016-11-25T14:37:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-06-09T13:51:51.498Z"
+                },
+                "CompletedMissionCount": {
+                    "value": "106",
+                    "startDate": "2016-11-29T12:22:00.000Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.CompletedMissionCount": "106"
+                    },
+                    "lastModified": "2018-09-30T17:51:27.306Z"
+                },
+                "CompletedMissionPercentage": {
+                    "value": "100",
+                    "startDate": "2016-06-23T11:56:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-05-03T14:03:40.752Z"
+                },
+                "CompletedMissionRatio": {
+                    "value": "1",
+                    "startDate": "2017-01-10T15:23:00.000Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.CompletedMissionRatio": "1"
+                    },
+                    "lastModified": "2019-05-03T14:03:40.751Z"
+                },
+                "CompletedMissionWithNoAlertCount": {
+                    "value": "285",
+                    "startDate": "2016-11-29T12:32:00.000Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.CompletedMissionWithNoAlertCount": "285"
+                    },
+                    "lastModified": "2019-09-22T09:26:08.399Z"
+                },
+                "CoopPlaytime": {
+                    "value": "370130",
+                    "startDate": "2016-06-23T12:09:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-07-21T13:03:12.698Z"
+                },
+                "FallenDLCPlaytime": {
+                    "value": "36224",
+                    "startDate": "2016-11-07T10:17:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2018-09-30T17:51:27.308Z"
+                },
+                "KillWithCQCCount": {
+                    "value": "925",
+                    "startDate": "2016-11-29T12:48:00.000Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.KillWithCQCCount": "925"
+                    },
+                    "lastModified": "2019-09-22T11:10:58.094Z"
+                },
+                "KillWithDroneCount": {
+                    "value": "258",
+                    "startDate": "2016-11-29T12:39:00.000Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.KillWithDroneCount": "258"
+                    },
+                    "lastModified": "2019-02-24T11:48:53.682Z"
+                },
+                "KilledEnemiesCount": {
+                    "value": "25532",
+                    "startDate": "2016-11-29T12:36:00.000Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.KilledEnemiesCount": "25532"
+                    },
+                    "lastModified": "2019-09-22T12:01:00.006Z"
+                },
+                "LocationUnlockedCount": {
+                    "value": "451",
+                    "startDate": "2016-06-23T12:18:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-07-21T12:18:00.279Z"
+                },
+                "LongDistanceKillCount": {
+                    "value": "321",
+                    "startDate": "2016-11-29T12:49:00.000Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.Above300mKillCount": "null"
+                    },
+                    "lastModified": "2019-02-19T18:08:28.429Z"
+                },
+                "LootPickupCount": {
+                    "value": "1539",
+                    "startDate": "2016-11-29T12:50:00.000Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.LootPickupCount": "1539"
+                    },
+                    "lastModified": "2019-09-22T11:55:56.325Z"
+                },
+                "MarkedEnemyCount": {
+                    "value": "8581",
+                    "startDate": "2016-11-29T12:51:00.000Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.MarkedEnemyCount": "8581"
+                    },
+                    "lastModified": "2019-09-22T11:55:56.324Z"
+                },
+                "PlayerLevel": {
+                    "value": "30",
+                    "startDate": "2016-06-23T12:19:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2018-09-30T17:51:27.306Z"
+                },
+                "PlayerStatSyncCountPerGameVersion.GameVersion.Full": {
+                    "value": "573",
+                    "startDate": "2018-11-05T17:13:00.976Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-09-22T12:06:00.837Z"
+                },
+                "PvPPlaytime": {
+                    "value": "77638",
+                    "startDate": "2016-06-23T12:20:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2018-09-30T17:51:27.305Z"
+                },
+                "RevivedTeammateCount": {
+                    "value": "797",
+                    "startDate": "2016-11-29T12:50:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-01-12T20:13:19.931Z"
+                },
+                "ShadowProfile": {
+                    "value": "9",
+                    "startDate": "2016-11-07T10:09:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-03-02T12:06:06.962Z"
+                },
+                "SmugglerDLCPlaytime": {
+                    "value": "17",
+                    "startDate": "2016-11-07T10:16:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2018-09-30T17:51:27.307Z"
+                },
+                "SoloPlaytime": {
+                    "value": "697189",
+                    "startDate": "2016-06-23T12:21:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-09-22T12:06:00.836Z"
+                },
+                "StealthKillPercentage": {
+                    "value": "51",
+                    "startDate": "2016-11-07T10:09:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-03-03T16:47:21.596Z"
+                },
+                "StoryCollectiblesPercentage": {
+                    "value": "78",
+                    "startDate": "2016-06-23T12:22:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-07-21T13:03:12.698Z"
+                },
+                "StoryCollectiblesRatio": {
+                    "value": "0.78",
+                    "startDate": "2017-01-10T15:25:00.000Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.StoryCollectiblesRatio": "0.78"
+                    },
+                    "lastModified": "2019-07-21T13:03:12.698Z"
+                },
+                "TacticalPlanningPercentage": {
+                    "value": "33",
+                    "startDate": "2016-11-07T10:09:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-05-09T19:55:22.265Z"
+                },
+                "VehicleDistance": {
+                    "value": "6078298",
+                    "startDate": "2016-11-29T12:43:00.000Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.VehicleDistance": "6078298"
+                    },
+                    "lastModified": "2019-09-22T11:55:56.324Z"
+                }
+            }
+        },
+        {
+            "profileId": "55f96841-acdd-4c25-a671-c8d4032a0737",
+            "stats": {
+                "AverageKillDistance": {
+                    "value": "83",
+                    "startDate": "2016-11-07T10:08:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-04-16T19:21:52.414Z"
+                },
+                "Basejumpcountcommunautary": {
+                    "value": "114",
+                    "startDate": "2016-11-25T14:37:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-07-12T10:35:37.443Z"
+                },
+                "CompletedMissionCount": {
+                    "value": "99",
+                    "startDate": "2016-11-29T12:22:00.000Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.CompletedMissionCount": "99"
+                    },
+                    "lastModified": "2019-05-10T14:48:44.707Z"
+                },
+                "CompletedMissionPercentage": {
+                    "value": "93",
+                    "startDate": "2016-06-23T11:56:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-05-10T14:48:44.707Z"
+                },
+                "CompletedMissionRatio": {
+                    "value": "0.93",
+                    "startDate": "2017-01-10T15:23:00.000Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.CompletedMissionRatio": "0.93"
+                    },
+                    "lastModified": "2019-05-10T14:48:44.708Z"
+                },
+                "CompletedMissionWithNoAlertCount": {
+                    "value": "52",
+                    "startDate": "2016-11-29T12:32:00.000Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.CompletedMissionWithNoAlertCount": "52"
+                    },
+                    "lastModified": "2019-07-13T20:55:34.453Z"
+                },
+                "CoopPlaytime": {
+                    "value": "77468",
+                    "startDate": "2016-06-23T12:09:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2018-07-21T20:47:07.498Z"
+                },
+                "FallenDLCPlaytime": {
+                    "value": "0",
+                    "startDate": "2016-11-07T10:17:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2017-03-07T11:26:18.401Z"
+                },
+                "KillWithCQCCount": {
+                    "value": "92",
+                    "startDate": "2016-11-29T12:48:00.000Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.KillWithCQCCount": "92"
+                    },
+                    "lastModified": "2019-07-12T10:30:34.789Z"
+                },
+                "KillWithDroneCount": {
+                    "value": "21",
+                    "startDate": "2016-11-29T12:39:00.000Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.KillWithDroneCount": "21"
+                    },
+                    "lastModified": "2018-01-07T18:57:27.925Z"
+                },
+                "KilledEnemiesCount": {
+                    "value": "7377",
+                    "startDate": "2016-11-29T12:36:00.000Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.KilledEnemiesCount": "7377"
+                    },
+                    "lastModified": "2019-07-13T20:55:34.452Z"
+                },
+                "LocationUnlockedCount": {
+                    "value": "374",
+                    "startDate": "2016-06-23T12:18:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2018-07-24T08:43:50.820Z"
+                },
+                "LongDistanceKillCount": {
+                    "value": "124",
+                    "startDate": "2016-11-29T12:49:00.000Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.Above300mKillCount": "null"
+                    },
+                    "lastModified": "2018-06-11T14:50:59.518Z"
+                },
+                "LootPickupCount": {
+                    "value": "1116",
+                    "startDate": "2016-11-29T12:50:00.000Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.LootPickupCount": "1116"
+                    },
+                    "lastModified": "2019-07-13T20:55:34.452Z"
+                },
+                "MarkedEnemyCount": {
+                    "value": "3631",
+                    "startDate": "2016-11-29T12:51:00.000Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.MarkedEnemyCount": "3631"
+                    },
+                    "lastModified": "2019-07-13T20:55:34.453Z"
+                },
+                "PlayerLevel": {
+                    "value": "30",
+                    "startDate": "2016-06-23T12:19:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2017-03-29T12:59:06.198Z"
+                },
+                "PlayerStatSyncCountPerGameVersion.GameVersion.Full": {
+                    "value": "16",
+                    "startDate": "2018-11-05T17:13:00.976Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-07-13T20:55:34.453Z"
+                },
+                "PvPPlaytime": {
+                    "value": "0",
+                    "startDate": "2016-06-23T12:20:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2017-03-07T11:26:18.401Z"
+                },
+                "RevivedTeammateCount": {
+                    "value": "61",
+                    "startDate": "2016-11-29T12:50:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2018-06-12T09:15:32.954Z"
+                },
+                "ShadowProfile": {
+                    "value": "3",
+                    "startDate": "2016-11-07T10:09:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2017-03-09T13:02:43.772Z"
+                },
+                "SmugglerDLCPlaytime": {
+                    "value": "0",
+                    "startDate": "2016-11-07T10:16:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2017-03-07T11:26:18.402Z"
+                },
+                "SoloPlaytime": {
+                    "value": "252349",
+                    "startDate": "2016-06-23T12:21:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-07-13T20:55:34.453Z"
+                },
+                "StealthKillPercentage": {
+                    "value": "65",
+                    "startDate": "2016-11-07T10:09:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-04-16T19:26:58.856Z"
+                },
+                "StoryCollectiblesPercentage": {
+                    "value": "35",
+                    "startDate": "2016-06-23T12:22:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-05-10T14:48:44.707Z"
+                },
+                "StoryCollectiblesRatio": {
+                    "value": "0.35",
+                    "startDate": "2017-01-10T15:25:00.000Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.StoryCollectiblesRatio": "0.35"
+                    },
+                    "lastModified": "2019-05-10T14:48:44.707Z"
+                },
+                "TacticalPlanningPercentage": {
+                    "value": "49",
+                    "startDate": "2016-11-07T10:09:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-05-10T14:49:02.478Z"
+                },
+                "VehicleDistance": {
+                    "value": "1868876",
+                    "startDate": "2016-11-29T12:43:00.000Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.VehicleDistance": "1868876"
+                    },
+                    "lastModified": "2019-07-12T10:35:37.443Z"
+                }
+            }
+        },
+        {
+            "profileId": "16c30c5f-4e97-455b-8123-3e6743bda427",
+            "stats": {
+                "AverageKillDistance": {
+                    "value": "66",
+                    "startDate": "2016-11-07T10:08:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-09-29T14:59:31.901Z"
+                },
+                "Basejumpcountcommunautary": {
+                    "value": "89",
+                    "startDate": "2016-11-25T14:37:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-02T18:15:36.719Z"
+                },
+                "CompletedMissionCount": {
+                    "value": "80",
+                    "startDate": "2016-11-29T12:22:00.000Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.CompletedMissionCount": "80"
+                    },
+                    "lastModified": "2019-09-30T19:41:32.292Z"
+                },
+                "CompletedMissionPercentage": {
+                    "value": "75",
+                    "startDate": "2016-06-23T11:56:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-09-30T19:41:32.296Z"
+                },
+                "CompletedMissionRatio": {
+                    "value": "0.75",
+                    "startDate": "2017-01-10T15:23:00.000Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.CompletedMissionRatio": "0.75"
+                    },
+                    "lastModified": "2019-09-30T19:41:32.293Z"
+                },
+                "CompletedMissionWithNoAlertCount": {
+                    "value": "51",
+                    "startDate": "2016-11-29T12:32:00.000Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.CompletedMissionWithNoAlertCount": "51"
+                    },
+                    "lastModified": "2019-10-02T18:45:37.928Z"
+                },
+                "CoopPlaytime": {
+                    "value": "168081",
+                    "startDate": "2016-06-23T12:09:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-02T18:50:45.515Z"
+                },
+                "FallenDLCPlaytime": {
+                    "value": "0",
+                    "startDate": "2016-11-07T10:17:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2018-09-30T17:01:32.253Z"
+                },
+                "KillWithCQCCount": {
+                    "value": "125",
+                    "startDate": "2016-11-29T12:48:00.000Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.KillWithCQCCount": "125"
+                    },
+                    "lastModified": "2019-09-30T21:32:56.544Z"
+                },
+                "KillWithDroneCount": {
+                    "value": "0",
+                    "startDate": "2016-11-29T12:39:00.000Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.KillWithDroneCount": "0"
+                    },
+                    "lastModified": "2018-09-30T17:01:32.252Z"
+                },
+                "KilledEnemiesCount": {
+                    "value": "3431",
+                    "startDate": "2016-11-29T12:36:00.000Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.KilledEnemiesCount": "3431"
+                    },
+                    "lastModified": "2019-10-02T18:50:45.515Z"
+                },
+                "LocationUnlockedCount": {
+                    "value": "287",
+                    "startDate": "2016-06-23T12:18:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-02T18:15:36.737Z"
+                },
+                "LongDistanceKillCount": {
+                    "value": "7",
+                    "startDate": "2016-11-29T12:49:00.000Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.Above300mKillCount": "null"
+                    },
+                    "lastModified": "2019-02-18T19:37:48.962Z"
+                },
+                "LootPickupCount": {
+                    "value": "952",
+                    "startDate": "2016-11-29T12:50:00.000Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.LootPickupCount": "952"
+                    },
+                    "lastModified": "2019-10-02T18:45:37.928Z"
+                },
+                "MarkedEnemyCount": {
+                    "value": "2249",
+                    "startDate": "2016-11-29T12:51:00.000Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.MarkedEnemyCount": "2249"
+                    },
+                    "lastModified": "2019-10-02T18:50:45.515Z"
+                },
+                "PlayerLevel": {
+                    "value": "29",
+                    "startDate": "2016-06-23T12:19:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2018-09-30T17:01:32.253Z"
+                },
+                "PlayerStatSyncCountPerGameVersion.GameVersion.Full": {
+                    "value": "127",
+                    "startDate": "2018-11-05T17:13:00.976Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-02T18:50:45.516Z"
+                },
+                "PvPPlaytime": {
+                    "value": "36",
+                    "startDate": "2016-06-23T12:20:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2018-09-30T17:01:32.253Z"
+                },
+                "RevivedTeammateCount": {
+                    "value": "17",
+                    "startDate": "2016-11-29T12:50:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-02T18:05:33.210Z"
+                },
+                "ShadowProfile": {
+                    "value": "3",
+                    "startDate": "2016-11-07T10:09:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2018-09-30T17:01:32.253Z"
+                },
+                "SmugglerDLCPlaytime": {
+                    "value": "0",
+                    "startDate": "2016-11-07T10:16:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2018-09-30T17:01:32.253Z"
+                },
+                "SoloPlaytime": {
+                    "value": "73830",
+                    "startDate": "2016-06-23T12:21:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-02T18:35:47.835Z"
+                },
+                "StealthKillPercentage": {
+                    "value": "72",
+                    "startDate": "2016-11-07T10:09:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-02T18:50:45.515Z"
+                },
+                "StoryCollectiblesPercentage": {
+                    "value": "24",
+                    "startDate": "2016-06-23T12:22:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-09-30T21:17:48.273Z"
+                },
+                "StoryCollectiblesRatio": {
+                    "value": "0.24",
+                    "startDate": "2017-01-10T15:25:00.000Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.StoryCollectiblesRatio": "0.24"
+                    },
+                    "lastModified": "2019-09-30T21:17:48.273Z"
+                },
+                "TacticalPlanningPercentage": {
+                    "value": "65",
+                    "startDate": "2016-11-07T10:09:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-09-30T20:57:36.721Z"
+                },
+                "VehicleDistance": {
+                    "value": "952147",
+                    "startDate": "2016-11-29T12:43:00.000Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.VehicleDistance": "952147"
+                    },
+                    "lastModified": "2019-10-02T18:50:45.516Z"
+                }
+            }
+        },
+        {
+            "profileId": "f803f661-1478-45ea-a028-ca9124124ed0",
+            "stats": {}
+        },
+        {
+            "profileId": "2b57c674-9567-471b-b403-f3dc5f567f17",
+            "stats": {
+                "AverageKillDistance": {
+                    "value": "65",
+                    "startDate": "2016-11-07T10:08:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-06-12T20:17:48.398Z"
+                },
+                "Basejumpcountcommunautary": {
+                    "value": "192",
+                    "startDate": "2016-11-25T14:37:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-06-12T20:32:56.603Z"
+                },
+                "CompletedMissionCount": {
+                    "value": "108",
+                    "startDate": "2016-11-29T12:22:00.000Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.CompletedMissionCount": "108"
+                    },
+                    "lastModified": "2019-03-24T17:11:00.327Z"
+                },
+                "CompletedMissionPercentage": {
+                    "value": "100",
+                    "startDate": "2016-06-23T11:56:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-03-24T17:11:00.327Z"
+                },
+                "CompletedMissionRatio": {
+                    "value": "1",
+                    "startDate": "2017-01-10T15:23:00.000Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.CompletedMissionRatio": "1"
+                    },
+                    "lastModified": "2019-03-24T17:11:00.539Z"
+                },
+                "CompletedMissionWithNoAlertCount": {
+                    "value": "20",
+                    "startDate": "2016-11-29T12:32:00.000Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.CompletedMissionWithNoAlertCount": "20"
+                    },
+                    "lastModified": "2019-03-24T16:38:01.752Z"
+                },
+                "CoopPlaytime": {
+                    "value": "233152",
+                    "startDate": "2016-06-23T12:09:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-09-29T11:06:43.470Z"
+                },
+                "FallenDLCPlaytime": {
+                    "value": "0",
+                    "startDate": "2016-11-07T10:17:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-03-05T15:13:00.299Z"
+                },
+                "KillWithCQCCount": {
+                    "value": "97",
+                    "startDate": "2016-11-29T12:48:00.000Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.KillWithCQCCount": "97"
+                    },
+                    "lastModified": "2019-06-12T21:29:38.193Z"
+                },
+                "KillWithDroneCount": {
+                    "value": "6",
+                    "startDate": "2016-11-29T12:39:00.000Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.KillWithDroneCount": "6"
+                    },
+                    "lastModified": "2019-03-24T21:08:05.797Z"
+                },
+                "KilledEnemiesCount": {
+                    "value": "6220",
+                    "startDate": "2016-11-29T12:36:00.000Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.KilledEnemiesCount": "6220"
+                    },
+                    "lastModified": "2019-08-11T13:46:16.684Z"
+                },
+                "LocationUnlockedCount": {
+                    "value": "341",
+                    "startDate": "2016-06-23T12:18:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-08-11T13:51:16.433Z"
+                },
+                "LongDistanceKillCount": {
+                    "value": "17",
+                    "startDate": "2016-11-29T12:49:00.000Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.Above300mKillCount": "null"
+                    },
+                    "lastModified": "2019-06-12T20:37:43.795Z"
+                },
+                "LootPickupCount": {
+                    "value": "568",
+                    "startDate": "2016-11-29T12:50:00.000Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.LootPickupCount": "568"
+                    },
+                    "lastModified": "2019-06-13T15:21:45.257Z"
+                },
+                "MarkedEnemyCount": {
+                    "value": "1112",
+                    "startDate": "2016-11-29T12:51:00.000Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.MarkedEnemyCount": "1112"
+                    },
+                    "lastModified": "2019-06-13T15:11:39.166Z"
+                },
+                "PlayerLevel": {
+                    "value": "30",
+                    "startDate": "2016-06-23T12:19:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-03-08T20:58:10.389Z"
+                },
+                "PlayerStatSyncCountPerGameVersion.GameVersion.Full": {
+                    "value": "596",
+                    "startDate": "2018-11-05T17:13:00.976Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-09-29T11:06:43.471Z"
+                },
+                "PvPPlaytime": {
+                    "value": "19108",
+                    "startDate": "2016-06-23T12:20:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-09-01T16:40:06.991Z"
+                },
+                "RevivedTeammateCount": {
+                    "value": "178",
+                    "startDate": "2016-11-29T12:50:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-09-01T16:40:06.990Z"
+                },
+                "ShadowProfile": {
+                    "value": "9",
+                    "startDate": "2016-11-07T10:09:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-03-05T15:13:00.300Z"
+                },
+                "SmugglerDLCPlaytime": {
+                    "value": "0",
+                    "startDate": "2016-11-07T10:16:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-03-05T15:13:00.299Z"
+                },
+                "SoloPlaytime": {
+                    "value": "71566",
+                    "startDate": "2016-06-23T12:21:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-09-29T11:06:43.471Z"
+                },
+                "StealthKillPercentage": {
+                    "value": "41",
+                    "startDate": "2016-11-07T10:09:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-03-25T21:49:46.568Z"
+                },
+                "StoryCollectiblesPercentage": {
+                    "value": "26",
+                    "startDate": "2016-06-23T12:22:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-09-01T16:40:06.990Z"
+                },
+                "StoryCollectiblesRatio": {
+                    "value": "0.26",
+                    "startDate": "2017-01-10T15:25:00.000Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.StoryCollectiblesRatio": "0.26"
+                    },
+                    "lastModified": "2019-09-01T16:40:06.990Z"
+                },
+                "TacticalPlanningPercentage": {
+                    "value": "17",
+                    "startDate": "2016-11-07T10:09:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-06-08T22:18:08.731Z"
+                },
+                "VehicleDistance": {
+                    "value": "1465972",
+                    "startDate": "2016-11-29T12:43:00.000Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.VehicleDistance": "1465972"
+                    },
+                    "lastModified": "2019-08-11T13:51:16.432Z"
+                }
+            }
+        },
+        {
+            "profileId": "3c709e78-cd04-42fc-be03-a1655058c9f5",
+            "stats": {}
+        },
+        {
+            "profileId": "87d2039c-5822-4284-8ac6-37fe3f1a2277",
+            "stats": {
+                "AverageKillDistance": {
+                    "value": "83",
+                    "startDate": "2016-11-07T10:08:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-02T19:12:16.740Z"
+                },
+                "Basejumpcountcommunautary": {
+                    "value": "25",
+                    "startDate": "2016-11-25T14:37:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-02T19:02:22.545Z"
+                },
+                "CompletedMissionCount": {
+                    "value": "44",
+                    "startDate": "2016-11-29T12:22:00.000Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.CompletedMissionCount": "44"
+                    },
+                    "lastModified": "2019-10-02T16:29:56.059Z"
+                },
+                "CompletedMissionPercentage": {
+                    "value": "41",
+                    "startDate": "2016-06-23T11:56:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-02T16:29:56.058Z"
+                },
+                "CompletedMissionRatio": {
+                    "value": "0.41",
+                    "startDate": "2017-01-10T15:23:00.000Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.CompletedMissionRatio": "0.41"
+                    },
+                    "lastModified": "2019-10-02T16:29:56.058Z"
+                },
+                "CompletedMissionWithNoAlertCount": {
+                    "value": "23",
+                    "startDate": "2016-11-29T12:32:00.000Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.CompletedMissionWithNoAlertCount": "23"
+                    },
+                    "lastModified": "2019-10-02T16:59:43.967Z"
+                },
+                "CoopPlaytime": {
+                    "value": "150876",
+                    "startDate": "2016-06-23T12:09:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-02T20:02:23.664Z"
+                },
+                "FallenDLCPlaytime": {
+                    "value": "0",
+                    "startDate": "2016-11-07T10:17:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2018-10-02T20:40:57.799Z"
+                },
+                "KillWithCQCCount": {
+                    "value": "41",
+                    "startDate": "2016-11-29T12:48:00.000Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.KillWithCQCCount": "41"
+                    },
+                    "lastModified": "2019-10-02T19:42:40.061Z"
+                },
+                "KillWithDroneCount": {
+                    "value": "10",
+                    "startDate": "2016-11-29T12:39:00.000Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.KillWithDroneCount": "10"
+                    },
+                    "lastModified": "2019-10-02T19:17:29.037Z"
+                },
+                "KilledEnemiesCount": {
+                    "value": "2402",
+                    "startDate": "2016-11-29T12:36:00.000Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.KilledEnemiesCount": "2402"
+                    },
+                    "lastModified": "2019-10-02T20:02:23.664Z"
+                },
+                "LocationUnlockedCount": {
+                    "value": "226",
+                    "startDate": "2016-06-23T12:18:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-02T19:57:16.278Z"
+                },
+                "LongDistanceKillCount": {
+                    "value": "18",
+                    "startDate": "2016-11-29T12:49:00.000Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.Above300mKillCount": "null"
+                    },
+                    "lastModified": "2019-09-29T19:54:25.427Z"
+                },
+                "LootPickupCount": {
+                    "value": "758",
+                    "startDate": "2016-11-29T12:50:00.000Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.LootPickupCount": "758"
+                    },
+                    "lastModified": "2019-10-02T20:02:23.664Z"
+                },
+                "MarkedEnemyCount": {
+                    "value": "1517",
+                    "startDate": "2016-11-29T12:51:00.000Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.MarkedEnemyCount": "1517"
+                    },
+                    "lastModified": "2019-10-02T20:02:23.664Z"
+                },
+                "PlayerLevel": {
+                    "value": "23",
+                    "startDate": "2016-06-23T12:19:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2018-10-02T20:40:57.799Z"
+                },
+                "PlayerStatSyncCountPerGameVersion.GameVersion.Full": {
+                    "value": "179",
+                    "startDate": "2018-11-05T17:13:00.976Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-02T20:02:23.665Z"
+                },
+                "PvPPlaytime": {
+                    "value": "0",
+                    "startDate": "2016-06-23T12:20:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2018-10-02T20:40:57.798Z"
+                },
+                "RevivedTeammateCount": {
+                    "value": "57",
+                    "startDate": "2016-11-29T12:50:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-02T17:49:50.406Z"
+                },
+                "ShadowProfile": {
+                    "value": "3",
+                    "startDate": "2016-11-07T10:09:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2018-10-02T20:40:57.801Z"
+                },
+                "SmugglerDLCPlaytime": {
+                    "value": "0",
+                    "startDate": "2016-11-07T10:16:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2018-10-02T20:40:57.802Z"
+                },
+                "SoloPlaytime": {
+                    "value": "2390",
+                    "startDate": "2016-06-23T12:21:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-02T16:14:47.252Z"
+                },
+                "StealthKillPercentage": {
+                    "value": "63",
+                    "startDate": "2016-11-07T10:09:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-02T19:07:25.478Z"
+                },
+                "StoryCollectiblesPercentage": {
+                    "value": "17",
+                    "startDate": "2016-06-23T12:22:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-02T19:57:16.278Z"
+                },
+                "StoryCollectiblesRatio": {
+                    "value": "0.17",
+                    "startDate": "2017-01-10T15:25:00.000Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.StoryCollectiblesRatio": "0.17"
+                    },
+                    "lastModified": "2019-10-02T19:57:16.278Z"
+                },
+                "TacticalPlanningPercentage": {
+                    "value": "63",
+                    "startDate": "2016-11-07T10:09:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-02T20:02:23.665Z"
+                },
+                "VehicleDistance": {
+                    "value": "504787",
+                    "startDate": "2016-11-29T12:43:00.000Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.VehicleDistance": "504787"
+                    },
+                    "lastModified": "2019-10-02T19:52:22.498Z"
+                }
+            }
+        },
+        {
+            "profileId": "481782a2-9dab-4d6d-94bf-13aa3010afca",
+            "stats": {
+                "AverageKillDistance": {
+                    "value": "71",
+                    "startDate": "2016-11-07T10:08:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2018-10-02T23:33:26.797Z"
+                },
+                "Basejumpcountcommunautary": {
+                    "value": "34",
+                    "startDate": "2016-11-25T14:37:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2018-10-02T23:33:26.796Z"
+                },
+                "CompletedMissionCount": {
+                    "value": "106",
+                    "startDate": "2016-11-29T12:22:00.000Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.CompletedMissionCount": "106"
+                    },
+                    "lastModified": "2018-10-02T23:33:26.797Z"
+                },
+                "CompletedMissionPercentage": {
+                    "value": "100",
+                    "startDate": "2016-06-23T11:56:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2018-10-02T23:33:26.797Z"
+                },
+                "CompletedMissionRatio": {
+                    "value": "1",
+                    "startDate": "2017-01-10T15:23:00.000Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.CompletedMissionRatio": "1.0"
+                    },
+                    "lastModified": "2018-10-02T23:33:26.794Z"
+                },
+                "CompletedMissionWithNoAlertCount": {
+                    "value": "53",
+                    "startDate": "2016-11-29T12:32:00.000Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.CompletedMissionWithNoAlertCount": "53"
+                    },
+                    "lastModified": "2018-10-02T23:33:26.795Z"
+                },
+                "CoopPlaytime": {
+                    "value": "125679",
+                    "startDate": "2016-06-23T12:09:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2018-10-02T23:33:26.795Z"
+                },
+                "FallenDLCPlaytime": {
+                    "value": "0",
+                    "startDate": "2016-11-07T10:17:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2018-10-02T23:33:26.797Z"
+                },
+                "KillWithCQCCount": {
+                    "value": "106",
+                    "startDate": "2016-11-29T12:48:00.000Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.KillWithCQCCount": "106"
+                    },
+                    "lastModified": "2018-10-02T23:33:26.798Z"
+                },
+                "KillWithDroneCount": {
+                    "value": "24",
+                    "startDate": "2016-11-29T12:39:00.000Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.KillWithDroneCount": "24"
+                    },
+                    "lastModified": "2018-10-02T23:33:26.795Z"
+                },
+                "KilledEnemiesCount": {
+                    "value": "5685",
+                    "startDate": "2016-11-29T12:36:00.000Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.KilledEnemiesCount": "5685"
+                    },
+                    "lastModified": "2018-10-02T23:33:26.797Z"
+                },
+                "LocationUnlockedCount": {
+                    "value": "365",
+                    "startDate": "2016-06-23T12:18:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2018-10-02T23:33:26.795Z"
+                },
+                "LongDistanceKillCount": {
+                    "value": "64",
+                    "startDate": "2016-11-29T12:49:00.000Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.Above300mKillCount": "null"
+                    },
+                    "lastModified": "2018-10-02T23:33:26.797Z"
+                },
+                "LootPickupCount": {
+                    "value": "1086",
+                    "startDate": "2016-11-29T12:50:00.000Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.LootPickupCount": "1086"
+                    },
+                    "lastModified": "2018-10-02T23:33:26.798Z"
+                },
+                "MarkedEnemyCount": {
+                    "value": "2598",
+                    "startDate": "2016-11-29T12:51:00.000Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.MarkedEnemyCount": "2598"
+                    },
+                    "lastModified": "2018-10-02T23:33:26.794Z"
+                },
+                "PlayerLevel": {
+                    "value": "30",
+                    "startDate": "2016-06-23T12:19:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2018-10-02T23:33:26.796Z"
+                },
+                "PvPPlaytime": {
+                    "value": "0",
+                    "startDate": "2016-06-23T12:20:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2018-10-02T23:33:26.794Z"
+                },
+                "RevivedTeammateCount": {
+                    "value": "60",
+                    "startDate": "2016-11-29T12:50:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2018-10-02T23:33:26.795Z"
+                },
+                "ShadowProfile": {
+                    "value": "9",
+                    "startDate": "2016-11-07T10:09:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2018-10-02T23:33:26.797Z"
+                },
+                "SmugglerDLCPlaytime": {
+                    "value": "0",
+                    "startDate": "2016-11-07T10:16:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2018-10-02T23:33:26.795Z"
+                },
+                "SoloPlaytime": {
+                    "value": "222274",
+                    "startDate": "2016-06-23T12:21:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2018-10-02T23:33:26.797Z"
+                },
+                "StealthKillPercentage": {
+                    "value": "53",
+                    "startDate": "2016-11-07T10:09:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2018-10-02T23:33:26.799Z"
+                },
+                "StoryCollectiblesPercentage": {
+                    "value": "39",
+                    "startDate": "2016-06-23T12:22:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2018-10-02T23:33:26.794Z"
+                },
+                "StoryCollectiblesRatio": {
+                    "value": "0.39",
+                    "startDate": "2017-01-10T15:25:00.000Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.StoryCollectiblesRatio": "0.39"
+                    },
+                    "lastModified": "2018-10-02T23:33:26.798Z"
+                },
+                "TacticalPlanningPercentage": {
+                    "value": "45",
+                    "startDate": "2016-11-07T10:09:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2018-10-02T23:33:26.795Z"
+                },
+                "VehicleDistance": {
+                    "value": "1456981",
+                    "startDate": "2016-11-29T12:43:00.000Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.VehicleDistance": "1456981"
+                    },
+                    "lastModified": "2018-10-02T23:33:26.799Z"
+                }
+            }
+        },
+        {
+            "profileId": "ef2ad2a6-a1bd-49ad-aadf-fb595118ff81",
+            "stats": {
+                "AverageKillDistance": {
+                    "value": "95",
+                    "startDate": "2016-11-07T10:08:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2018-02-08T23:19:08.874Z"
+                },
+                "Basejumpcountcommunautary": {
+                    "value": "22",
+                    "startDate": "2016-11-25T14:37:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2017-11-27T22:08:33.441Z"
+                },
+                "CompletedMissionCount": {
+                    "value": "35",
+                    "startDate": "2016-11-29T12:22:00.000Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.CompletedMissionCount": "35"
+                    },
+                    "lastModified": "2018-02-08T23:24:11.991Z"
+                },
+                "CompletedMissionPercentage": {
+                    "value": "33",
+                    "startDate": "2016-06-23T11:56:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2018-02-08T23:24:11.991Z"
+                },
+                "CompletedMissionRatio": {
+                    "value": "0.33",
+                    "startDate": "2017-01-10T15:23:00.000Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.CompletedMissionRatio": "0.33"
+                    },
+                    "lastModified": "2018-02-08T23:24:11.991Z"
+                },
+                "CompletedMissionWithNoAlertCount": {
+                    "value": "8",
+                    "startDate": "2016-11-29T12:32:00.000Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.CompletedMissionWithNoAlertCount": "8"
+                    },
+                    "lastModified": "2018-01-10T21:22:58.166Z"
+                },
+                "CoopPlaytime": {
+                    "value": "65309",
+                    "startDate": "2016-06-23T12:09:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2018-02-21T23:23:58.762Z"
+                },
+                "FallenDLCPlaytime": {
+                    "value": "0",
+                    "startDate": "2016-11-07T10:17:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2017-10-14T20:40:43.924Z"
+                },
+                "KillWithCQCCount": {
+                    "value": "11",
+                    "startDate": "2016-11-29T12:48:00.000Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.KillWithCQCCount": "11"
+                    },
+                    "lastModified": "2018-01-10T21:37:59.727Z"
+                },
+                "KillWithDroneCount": {
+                    "value": "2",
+                    "startDate": "2016-11-29T12:39:00.000Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.KillWithDroneCount": "2"
+                    },
+                    "lastModified": "2018-01-10T21:53:12.939Z"
+                },
+                "KilledEnemiesCount": {
+                    "value": "876",
+                    "startDate": "2016-11-29T12:36:00.000Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.KilledEnemiesCount": "876"
+                    },
+                    "lastModified": "2018-02-21T23:23:58.762Z"
+                },
+                "LocationUnlockedCount": {
+                    "value": "126",
+                    "startDate": "2016-06-23T12:18:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2018-02-21T23:23:58.762Z"
+                },
+                "LongDistanceKillCount": {
+                    "value": "29",
+                    "startDate": "2016-11-29T12:49:00.000Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.Above300mKillCount": "null"
+                    },
+                    "lastModified": "2018-02-08T23:19:08.874Z"
+                },
+                "LootPickupCount": {
+                    "value": "269",
+                    "startDate": "2016-11-29T12:50:00.000Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.LootPickupCount": "269"
+                    },
+                    "lastModified": "2018-02-21T23:23:58.762Z"
+                },
+                "MarkedEnemyCount": {
+                    "value": "224",
+                    "startDate": "2016-11-29T12:51:00.000Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.MarkedEnemyCount": "224"
+                    },
+                    "lastModified": "2018-02-08T22:59:29.292Z"
+                },
+                "PlayerLevel": {
+                    "value": "22",
+                    "startDate": "2016-06-23T12:19:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2018-02-08T22:44:19.143Z"
+                },
+                "PvPPlaytime": {
+                    "value": "0",
+                    "startDate": "2016-06-23T12:20:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2017-10-14T20:40:43.923Z"
+                },
+                "RevivedTeammateCount": {
+                    "value": "58",
+                    "startDate": "2016-11-29T12:50:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2018-02-21T23:19:17.670Z"
+                },
+                "ShadowProfile": {
+                    "value": "3",
+                    "startDate": "2016-11-07T10:09:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2017-10-15T23:17:34.109Z"
+                },
+                "SmugglerDLCPlaytime": {
+                    "value": "0",
+                    "startDate": "2016-11-07T10:16:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2017-10-14T20:40:43.922Z"
+                },
+                "SoloPlaytime": {
+                    "value": "77",
+                    "startDate": "2016-06-23T12:21:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2017-10-16T00:09:38.044Z"
+                },
+                "StealthKillPercentage": {
+                    "value": "61",
+                    "startDate": "2016-11-07T10:09:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2018-02-08T23:19:08.874Z"
+                },
+                "StoryCollectiblesPercentage": {
+                    "value": "8",
+                    "startDate": "2016-06-23T12:22:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2018-02-08T23:19:08.874Z"
+                },
+                "StoryCollectiblesRatio": {
+                    "value": "0.08",
+                    "startDate": "2017-01-10T15:25:00.000Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.StoryCollectiblesRatio": "0.08"
+                    },
+                    "lastModified": "2018-02-08T23:19:08.874Z"
+                },
+                "TacticalPlanningPercentage": {
+                    "value": "25",
+                    "startDate": "2016-11-07T10:09:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2018-02-08T23:14:08.260Z"
+                },
+                "VehicleDistance": {
+                    "value": "122584",
+                    "startDate": "2016-11-29T12:43:00.000Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.VehicleDistance": "122584"
+                    },
+                    "lastModified": "2018-02-08T22:24:07.713Z"
+                }
+            }
+        },
+        {
+            "profileId": "01b979a8-8a1d-4d36-84a7-4baccf098e44",
+            "stats": {
+                "AverageKillDistance": {
+                    "value": "58",
+                    "startDate": "2016-11-07T10:08:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2018-09-08T05:12:17.087Z"
+                },
+                "Basejumpcountcommunautary": {
+                    "value": "12",
+                    "startDate": "2016-11-25T14:37:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2018-09-06T21:58:22.672Z"
+                },
+                "CompletedMissionCount": {
+                    "value": "9",
+                    "startDate": "2016-11-29T12:22:00.000Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.CompletedMissionCount": "9"
+                    },
+                    "lastModified": "2018-09-08T03:32:17.903Z"
+                },
+                "CompletedMissionPercentage": {
+                    "value": "8",
+                    "startDate": "2016-06-23T11:56:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2018-09-08T03:32:17.904Z"
+                },
+                "CompletedMissionRatio": {
+                    "value": "0.08",
+                    "startDate": "2017-01-10T15:23:00.000Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.CompletedMissionRatio": "0.08"
+                    },
+                    "lastModified": "2018-09-08T03:32:17.904Z"
+                },
+                "CompletedMissionWithNoAlertCount": {
+                    "value": "1",
+                    "startDate": "2016-11-29T12:32:00.000Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.CompletedMissionWithNoAlertCount": "1"
+                    },
+                    "lastModified": "2018-09-06T20:18:24.169Z"
+                },
+                "CoopPlaytime": {
+                    "value": "14649",
+                    "startDate": "2016-06-23T12:09:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2018-09-08T05:12:17.087Z"
+                },
+                "FallenDLCPlaytime": {
+                    "value": "0",
+                    "startDate": "2016-11-07T10:17:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2018-09-06T19:18:09.438Z"
+                },
+                "KillWithCQCCount": {
+                    "value": "1",
+                    "startDate": "2016-11-29T12:48:00.000Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.KillWithCQCCount": "1"
+                    },
+                    "lastModified": "2018-09-08T03:57:22.098Z"
+                },
+                "KillWithDroneCount": {
+                    "value": "0",
+                    "startDate": "2016-11-29T12:39:00.000Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.KillWithDroneCount": "0"
+                    },
+                    "lastModified": "2018-09-06T19:18:09.437Z"
+                },
+                "KilledEnemiesCount": {
+                    "value": "63",
+                    "startDate": "2016-11-29T12:36:00.000Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.KilledEnemiesCount": "63"
+                    },
+                    "lastModified": "2018-09-08T05:12:17.087Z"
+                },
+                "LocationUnlockedCount": {
+                    "value": "23",
+                    "startDate": "2016-06-23T12:18:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2018-09-08T04:12:17.328Z"
+                },
+                "LongDistanceKillCount": {
+                    "value": "0",
+                    "startDate": "2016-11-29T12:49:00.000Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.Above300mKillCount": "null"
+                    },
+                    "lastModified": "2018-09-06T19:18:09.437Z"
+                },
+                "LootPickupCount": {
+                    "value": "68",
+                    "startDate": "2016-11-29T12:50:00.000Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.LootPickupCount": "68"
+                    },
+                    "lastModified": "2018-09-08T04:17:31.592Z"
+                },
+                "MarkedEnemyCount": {
+                    "value": "29",
+                    "startDate": "2016-11-29T12:51:00.000Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.MarkedEnemyCount": "29"
+                    },
+                    "lastModified": "2018-09-08T05:02:43.868Z"
+                },
+                "PlayerLevel": {
+                    "value": "9",
+                    "startDate": "2016-06-23T12:19:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2018-09-06T21:48:19.983Z"
+                },
+                "PvPPlaytime": {
+                    "value": "0",
+                    "startDate": "2016-06-23T12:20:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2018-09-06T19:18:09.438Z"
+                },
+                "RevivedTeammateCount": {
+                    "value": "2",
+                    "startDate": "2016-11-29T12:50:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2018-09-08T05:12:17.087Z"
+                },
+                "ShadowProfile": {
+                    "value": "3",
+                    "startDate": "2016-11-07T10:09:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2018-09-06T19:58:16.542Z"
+                },
+                "SmugglerDLCPlaytime": {
+                    "value": "0",
+                    "startDate": "2016-11-07T10:16:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2018-09-06T19:18:09.438Z"
+                },
+                "SoloPlaytime": {
+                    "value": "111",
+                    "startDate": "2016-06-23T12:21:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2018-09-08T03:42:18.397Z"
+                },
+                "StealthKillPercentage": {
+                    "value": "82",
+                    "startDate": "2016-11-07T10:09:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2018-09-08T05:12:17.087Z"
+                },
+                "StoryCollectiblesPercentage": {
+                    "value": "1",
+                    "startDate": "2016-06-23T12:22:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2018-09-06T21:03:37.999Z"
+                },
+                "StoryCollectiblesRatio": {
+                    "value": "0.01",
+                    "startDate": "2017-01-10T15:25:00.000Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.StoryCollectiblesRatio": "0.01"
+                    },
+                    "lastModified": "2018-09-06T21:03:37.999Z"
+                },
+                "TacticalPlanningPercentage": {
+                    "value": "46",
+                    "startDate": "2016-11-07T10:09:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2018-09-08T05:12:17.087Z"
+                },
+                "VehicleDistance": {
+                    "value": "27686",
+                    "startDate": "2016-11-29T12:43:00.000Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.VehicleDistance": "27686"
+                    },
+                    "lastModified": "2018-09-08T04:27:34.953Z"
+                }
+            }
+        },
+        {
+            "profileId": "c6f91dbf-4414-48b9-a9ac-a37d5cf8a2ab",
+            "stats": {
+                "AverageKillDistance": {
+                    "value": "80",
+                    "startDate": "2016-11-07T10:08:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-09-05T06:47:37.409Z"
+                },
+                "Basejumpcountcommunautary": {
+                    "value": "31",
+                    "startDate": "2016-11-25T14:37:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-09-05T08:10:46.684Z"
+                },
+                "CompletedMissionCount": {
+                    "value": "106",
+                    "startDate": "2016-11-29T12:22:00.000Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.CompletedMissionCount": "106"
+                    },
+                    "lastModified": "2017-03-19T12:31:01.271Z"
+                },
+                "CompletedMissionPercentage": {
+                    "value": "100",
+                    "startDate": "2016-06-23T11:56:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2017-03-19T12:31:01.269Z"
+                },
+                "CompletedMissionRatio": {
+                    "value": "1",
+                    "startDate": "2017-01-10T15:23:00.000Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.CompletedMissionRatio": "1.0"
+                    },
+                    "lastModified": "2017-03-19T12:31:01.270Z"
+                },
+                "CompletedMissionWithNoAlertCount": {
+                    "value": "49",
+                    "startDate": "2016-11-29T12:32:00.000Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.CompletedMissionWithNoAlertCount": "49"
+                    },
+                    "lastModified": "2019-09-05T07:43:34.684Z"
+                },
+                "CoopPlaytime": {
+                    "value": "31756",
+                    "startDate": "2016-06-23T12:09:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2017-12-25T12:40:41.493Z"
+                },
+                "FallenDLCPlaytime": {
+                    "value": "32353",
+                    "startDate": "2016-11-07T10:17:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2017-12-26T15:18:46.576Z"
+                },
+                "KillWithCQCCount": {
+                    "value": "144",
+                    "startDate": "2016-11-29T12:48:00.000Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.KillWithCQCCount": "144"
+                    },
+                    "lastModified": "2019-09-05T10:15:40.671Z"
+                },
+                "KillWithDroneCount": {
+                    "value": "4",
+                    "startDate": "2016-11-29T12:39:00.000Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.KillWithDroneCount": "4"
+                    },
+                    "lastModified": "2017-04-02T21:08:57.170Z"
+                },
+                "KilledEnemiesCount": {
+                    "value": "6113",
+                    "startDate": "2016-11-29T12:36:00.000Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.KilledEnemiesCount": "6113"
+                    },
+                    "lastModified": "2019-09-05T10:40:49.541Z"
+                },
+                "LocationUnlockedCount": {
+                    "value": "387",
+                    "startDate": "2016-06-23T12:18:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-09-05T08:20:52.210Z"
+                },
+                "LongDistanceKillCount": {
+                    "value": "90",
+                    "startDate": "2016-11-29T12:49:00.000Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.Above300mKillCount": "null"
+                    },
+                    "lastModified": "2018-01-01T09:30:27.854Z"
+                },
+                "LootPickupCount": {
+                    "value": "1245",
+                    "startDate": "2016-11-29T12:50:00.000Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.LootPickupCount": "1245"
+                    },
+                    "lastModified": "2019-09-05T10:35:52.924Z"
+                },
+                "MarkedEnemyCount": {
+                    "value": "2911",
+                    "startDate": "2016-11-29T12:51:00.000Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.MarkedEnemyCount": "2911"
+                    },
+                    "lastModified": "2019-09-05T10:35:52.924Z"
+                },
+                "PlayerLevel": {
+                    "value": "30",
+                    "startDate": "2016-06-23T12:19:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2017-03-13T08:11:31.881Z"
+                },
+                "PlayerStatSyncCountPerGameVersion.GameVersion.Full": {
+                    "value": "267",
+                    "startDate": "2018-11-05T17:13:00.976Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-09-05T10:45:46.415Z"
+                },
+                "PvPPlaytime": {
+                    "value": "1761",
+                    "startDate": "2016-06-23T12:20:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2018-01-01T09:25:26.338Z"
+                },
+                "RevivedTeammateCount": {
+                    "value": "15",
+                    "startDate": "2016-11-29T12:50:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2017-04-04T20:12:31.920Z"
+                },
+                "ShadowProfile": {
+                    "value": "3",
+                    "startDate": "2016-11-07T10:09:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2017-03-07T07:06:18.270Z"
+                },
+                "SmugglerDLCPlaytime": {
+                    "value": "476",
+                    "startDate": "2016-11-07T10:16:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2017-12-27T19:27:56.167Z"
+                },
+                "SoloPlaytime": {
+                    "value": "259073",
+                    "startDate": "2016-06-23T12:21:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-09-05T10:45:46.415Z"
+                },
+                "StealthKillPercentage": {
+                    "value": "62",
+                    "startDate": "2016-11-07T10:09:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-09-05T10:35:52.923Z"
+                },
+                "StoryCollectiblesPercentage": {
+                    "value": "78",
+                    "startDate": "2016-06-23T12:22:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-09-05T08:15:48.343Z"
+                },
+                "StoryCollectiblesRatio": {
+                    "value": "0.78",
+                    "startDate": "2017-01-10T15:25:00.000Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.StoryCollectiblesRatio": "0.78"
+                    },
+                    "lastModified": "2019-09-05T08:15:48.343Z"
+                },
+                "TacticalPlanningPercentage": {
+                    "value": "47",
+                    "startDate": "2016-11-07T10:09:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-09-05T10:11:06.928Z"
+                },
+                "VehicleDistance": {
+                    "value": "1375992",
+                    "startDate": "2016-11-29T12:43:00.000Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.VehicleDistance": "1375992"
+                    },
+                    "lastModified": "2019-09-05T10:30:50.180Z"
+                }
+            }
+        }
+    ]
+}
