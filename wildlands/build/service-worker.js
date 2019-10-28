@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/grbp-stats/wildlands/build/precache-manifest.a2669fe7c2815be78ed257b4e8e2bfb0.js"
+  "/grbp-stats/wildlands/build/precache-manifest.8bc9f8e6208a3b5ebdd476d6bb04e4de.js"
 );
 
 self.addEventListener('message', (event) => {

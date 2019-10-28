@@ -64,7 +64,7 @@ class App extends React.Component {
 
   fetchData() {
     console.log(`${process.env.PUBLIC_URL}/olof.json`)
-    return fetch(`${process.env.PUBLIC_URL}/olof.json`).then(res => res.json())
+    return fetch(`./olof.json`).then(res => res.json())
   }
 
   render() {
