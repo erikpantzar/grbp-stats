@@ -189,6 +189,7 @@ export default function EnhancedTable({ rows }) {
                       <TableCell align="right">{row.timeplayed}</TableCell>
                       <TableCell align="right">{row.rev}</TableCell>
                       <TableCell align="right">{row.noalert}</TableCell>
+                      <TableCell align="right">{row.basejumps}</TableCell>
                     </TableRow>
                   );
                 })}
@@ -210,4 +211,5 @@ const headCells = [
   { id: 'timeplayed', numeric: true, disablePadding: false, label: 'Timeplayed' },  
   { id: 'revives', numeric: true, disablePadding: false, label: 'Revives' },
   { id: 'noalert', numeric: true, disablePadding: false, label: 'Noalert missions' },
+  { id: 'basejumps', numeric: true, disablePadding: false, label: 'Basejump count' },
 ];

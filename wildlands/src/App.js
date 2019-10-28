@@ -26,6 +26,7 @@ class App extends React.Component {
     const data = await this.fetchData()
 
     const mang = data.profiles.map(d => {
+      console.log(d.stats)
       return {
         name: idToName(d.profileId),
         profileId: d.profileId,
@@ -41,6 +42,7 @@ class App extends React.Component {
         const noalert = Number(gs(d, 'CompletedMissionWithNoAlertCount'))
         const rev = gs(d, 'RevivedTeammateCount')
         const stealth = Number(gs(d, 'StealthKillPercentage'))
+        const basejumps = Number(gs(d, 'Basejumpcountcommunautary'))
   
         return {
           name: d.name, 
@@ -51,6 +53,7 @@ class App extends React.Component {
           rev: Number(rev),
           noalert: Number(noalert),
           stealth,
+          basejumps,
         }
       })
 
