@@ -25,8 +25,6 @@ class App extends React.Component {
   async componentDidMount() {
     const data = await this.fetchData()
 
-    
-
     const mang = data.profiles.map(d => {
       return {
         name: idToName(d.profileId),
@@ -65,6 +63,7 @@ class App extends React.Component {
   }
 
   fetchData() {
+    console.log(`${process.env.PUBLIC_URL}/olof.json`)
     return fetch(`${process.env.PUBLIC_URL}/olof.json`).then(res => res.json())
   }
 

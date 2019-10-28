@@ -2,6 +2,7 @@
   "name": "wildlands",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://epantzar.se/grbp-stats/wildlands/build/",
   "dependencies": {
     "@material-ui/core": "^4.5.1",
     "@material-ui/icons": "^4.5.1",
