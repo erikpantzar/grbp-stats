@@ -1,6 +1,1482 @@
 {
     "profiles": [
         {
+            "profileId": "88cd2ba8-86ef-49db-9664-b672a6c36519",
+            "stats": {
+                "AchievementsUnlocked": {
+                    "value": "36",
+                    "startDate": "2019-06-07T09:40:00.350Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-27T22:12:53.327Z"
+                },
+                "BivouacsDiscovered": {
+                    "value": "113",
+                    "startDate": "2019-08-03T07:53:00.659Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.BivouacDiscovered": "113"
+                    },
+                    "lastModified": "2019-10-27T23:40:28.900Z"
+                },
+                "CQCKillsTotal": {
+                    "value": "106",
+                    "startDate": "2019-08-03T08:04:00.578Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.CQCKillsTotal": "106"
+                    },
+                    "lastModified": "2019-10-27T23:30:53.791Z"
+                },
+                "CarriedAllyPlayerBodyCountInPVE.GameMode.COOP": {
+                    "value": "5",
+                    "startDate": "2019-08-30T12:01:00.841Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-27T21:24:35.579Z"
+                },
+                "CarriedAllyPlayerBodyCountInPVE.GameMode.SinglePlayer": {
+                    "value": "0",
+                    "startDate": "2019-08-30T12:01:00.841Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-28T00:12:45.939Z"
+                },
+                "ClassTechniquesTriggeredSplitByClasses.PlayerPlaystyleID.1539590992295": {
+                    "value": "31",
+                    "startDate": "2019-08-30T14:52:00.004Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-27T22:04:50.131Z"
+                },
+                "ClassTechniquesTriggeredSplitByClasses.PlayerPlaystyleID.1539590992309": {
+                    "value": "46",
+                    "startDate": "2019-08-30T14:52:00.004Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-27T23:42:58.721Z"
+                },
+                "ClassTechniquesTriggeredSplitByClasses.PlayerPlaystyleID.1539590992322": {
+                    "value": "27",
+                    "startDate": "2019-08-30T14:52:00.004Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-28T00:12:45.939Z"
+                },
+                "ClassTechniquesTriggeredSplitByClasses.PlayerPlaystyleID.1539591007733": {
+                    "value": "21",
+                    "startDate": "2019-08-30T14:52:00.004Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-27T15:34:47.344Z"
+                },
+                "ConvoysStopped": {
+                    "value": "38",
+                    "startDate": "2019-06-07T09:42:00.925Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-27T21:17:33.387Z"
+                },
+                "CoopGlobalPlaytime": {
+                    "value": "184079",
+                    "startDate": "2019-08-03T07:54:00.396Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.CoopGlobalPlaytime": "184079"
+                    },
+                    "lastModified": "2019-10-27T21:27:37.244Z"
+                },
+                "DistanceTotal": {
+                    "value": "1512.66",
+                    "startDate": "2019-08-03T08:05:00.864Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.DistanceTotal": "1512.66"
+                    },
+                    "lastModified": "2019-10-28T00:10:44.534Z"
+                },
+                "DroidsKilledTotal": {
+                    "value": "508",
+                    "startDate": "2019-06-07T09:50:00.937Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-28T00:10:44.534Z"
+                },
+                "EnemiesKilledTotal": {
+                    "value": "5177",
+                    "startDate": "2019-08-02T16:46:00.611Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.EnemiesKilledTotal": "5177"
+                    },
+                    "lastModified": "2019-10-28T00:10:44.534Z"
+                },
+                "GoliathsKilledTotal": {
+                    "value": "9",
+                    "startDate": "2019-06-07T10:22:00.696Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-27T22:40:26.161Z"
+                },
+                "HeadshotsKillsTotal": {
+                    "value": "3437",
+                    "startDate": "2019-06-07T10:23:00.072Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-28T00:10:44.535Z"
+                },
+                "HuntersKilledTotal": {
+                    "value": "16",
+                    "startDate": "2019-06-07T10:24:00.039Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-28T00:05:41.513Z"
+                },
+                "LastHandCraftedQuestCompleted": {
+                    "value": "0",
+                    "startDate": "2019-08-31T06:16:00.098Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-27T18:17:02.756Z"
+                },
+                "LastMatchmakingMoodUsed": {
+                    "value": "3",
+                    "startDate": "2019-08-31T06:19:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-24T12:58:19.124Z"
+                },
+                "LastProvinceVisited": {
+                    "value": "1403621612493",
+                    "startDate": "2019-08-31T06:26:00.018Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-28T00:03:40.578Z"
+                },
+                "LastRankedUpClass.isPlaystyleRankLevelUp.true": {
+                    "value": "1539591007733",
+                    "startDate": "2019-08-31T06:48:00.568Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-22T10:15:46.512Z"
+                },
+                "LongRangeKillsTotal": {
+                    "value": "590",
+                    "startDate": "2019-06-07T10:26:00.702Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-28T00:10:44.535Z"
+                },
+                "LongestRangeKillsDistance": {
+                    "value": "652",
+                    "startDate": "2019-06-07T10:25:00.006Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-18T21:54:35.952Z"
+                },
+                "MainQuestsCompleted": {
+                    "value": "5",
+                    "startDate": "2019-06-07T10:26:00.057Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-27T22:40:26.160Z"
+                },
+                "MarkedHumanKillsRatio": {
+                    "value": "0.91",
+                    "startDate": "2019-06-07T10:27:00.758Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-21T12:03:36.084Z"
+                },
+                "MaxClassRankSplitByClasses.PlayerPlaystyleID.1539590992295": {
+                    "value": "10",
+                    "startDate": "2019-08-31T06:43:00.098Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-18T21:24:46.888Z"
+                },
+                "MaxClassRankSplitByClasses.PlayerPlaystyleID.1539590992309": {
+                    "value": "10",
+                    "startDate": "2019-08-31T06:43:00.098Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-17T14:03:46.948Z"
+                },
+                "MaxClassRankSplitByClasses.PlayerPlaystyleID.1539590992322": {
+                    "value": "10",
+                    "startDate": "2019-08-31T06:43:00.098Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-17T22:07:48.039Z"
+                },
+                "MaxClassRankSplitByClasses.PlayerPlaystyleID.1539591007733": {
+                    "value": "10",
+                    "startDate": "2019-08-31T06:43:00.098Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-22T12:19:00.904Z"
+                },
+                "PVPMatchesPlayed": {
+                    "value": "0",
+                    "startDate": "2019-08-03T08:16:00.074Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-04T11:54:20.488Z"
+                },
+                "PVPMatchesWon": {
+                    "value": "0",
+                    "startDate": "2019-06-07T10:31:00.636Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-04T11:54:20.489Z"
+                },
+                "PVPRoundsPlayed": {
+                    "value": "0",
+                    "startDate": "2019-06-07T10:33:00.732Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-04T11:54:20.489Z"
+                },
+                "PlayerKillsPVP": {
+                    "value": "10",
+                    "startDate": "2019-06-07T10:29:00.653Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-20T23:25:00.939Z"
+                },
+                "PlayerLevel": {
+                    "value": "15",
+                    "startDate": "2019-06-07T10:29:00.597Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-27T23:40:28.901Z"
+                },
+                "PlayerRevivedCount": {
+                    "value": "72",
+                    "startDate": "2019-08-31T07:46:00.837Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-27T16:35:07.947Z"
+                },
+                "ProceduralQuestsCompleted": {
+                    "value": "96",
+                    "startDate": "2019-06-07T10:30:00.971Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-27T23:20:45.576Z"
+                },
+                "ProvinceDiscovered.isNewProvinceDiscovered.true": {
+                    "value": "26",
+                    "startDate": "2019-09-20T07:00:00.405Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-27T23:58:38.127Z"
+                },
+                "PvPGlobalPlaytime": {
+                    "value": "0",
+                    "startDate": "2019-08-03T08:21:00.856Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-04T11:54:20.490Z"
+                },
+                "RaidBossKilledTotal": {
+                    "value": "0",
+                    "startDate": "2019-08-03T08:17:00.631Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-04T11:54:20.489Z"
+                },
+                "RaidsFinished": {
+                    "value": "0",
+                    "startDate": "2019-08-03T08:17:00.411Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-04T11:54:20.489Z"
+                },
+                "SoloGlobalPlaytime": {
+                    "value": "113306",
+                    "startDate": "2019-08-03T08:18:00.443Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.SoloGlobalPlaytime": "113306"
+                    },
+                    "lastModified": "2019-10-28T00:10:44.534Z"
+                },
+                "StealthHumanKillsRatio": {
+                    "value": "0.37",
+                    "startDate": "2019-06-07T10:35:00.395Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-27T14:55:54.212Z"
+                },
+                "StoryCollectiblesFound": {
+                    "value": "23",
+                    "startDate": "2019-06-07T10:35:00.388Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-27T19:46:51.266Z"
+                },
+                "StoryCompletionRatio": {
+                    "value": "0.18",
+                    "startDate": "2019-06-07T10:36:00.971Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-27T22:40:26.160Z"
+                },
+                "TotalGearLooted": {
+                    "value": "699",
+                    "startDate": "2019-06-07T10:36:00.476Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-28T00:10:44.535Z"
+                },
+                "TotalTimeInProneCamo.HiddenStateContext.0": {
+                    "value": "1890.99",
+                    "startDate": "2019-08-31T06:22:00.643Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-27T23:17:44.714Z"
+                },
+                "TotalWeaponsLooted": {
+                    "value": "821",
+                    "startDate": "2019-06-07T10:37:00.867Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-28T00:00:39.666Z"
+                },
+                "WalkerKills": {
+                    "value": "2",
+                    "startDate": "2019-09-20T06:50:00.611Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-12T13:56:43.335Z"
+                },
+                "WorldDiscovery": {
+                    "value": "0.1",
+                    "startDate": "2019-07-25T12:40:00.147Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-15T15:07:47.615Z"
+                },
+                "eSkredsTotalGained": {
+                    "value": "570526",
+                    "startDate": "2019-06-07T09:51:00.848Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-28T00:05:41.514Z"
+                },
+                "eSkredsTotalSpent": {
+                    "value": "387250",
+                    "startDate": "2019-08-03T08:06:00.037Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.eSkredsTotalSpent": "387250"
+                    },
+                    "lastModified": "2019-10-27T22:45:28.457Z"
+                },
+                "iLevelPlayer": {
+                    "value": "29",
+                    "startDate": "2019-06-07T10:24:00.734Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-27T23:50:32.796Z"
+                }
+            }
+        },
+        {
+            "profileId": "87d2039c-5822-4284-8ac6-37fe3f1a2277",
+            "stats": {
+                "AchievementsUnlocked": {
+                    "value": "42",
+                    "startDate": "2019-06-07T09:40:00.350Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-23T13:23:38.980Z"
+                },
+                "BivouacsDiscovered": {
+                    "value": "109",
+                    "startDate": "2019-08-03T07:53:00.659Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.BivouacDiscovered": "109"
+                    },
+                    "lastModified": "2019-10-24T09:16:46.783Z"
+                },
+                "CQCKillsTotal": {
+                    "value": "102",
+                    "startDate": "2019-08-03T08:04:00.578Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.CQCKillsTotal": "102"
+                    },
+                    "lastModified": "2019-10-27T18:25:29.444Z"
+                },
+                "CarriedAllyPlayerBodyCountInPVE.GameMode.COOP": {
+                    "value": "3",
+                    "startDate": "2019-08-30T12:01:00.841Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-27T21:24:23.550Z"
+                },
+                "CarriedAllyPlayerBodyCountInPVE.GameMode.SinglePlayer": {
+                    "value": "0",
+                    "startDate": "2019-08-30T12:01:00.841Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-27T18:02:46.382Z"
+                },
+                "ClassTechniquesTriggeredSplitByClasses.PlayerPlaystyleID.1539590992295": {
+                    "value": "6",
+                    "startDate": "2019-08-30T14:52:00.004Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-24T12:39:31.949Z"
+                },
+                "ClassTechniquesTriggeredSplitByClasses.PlayerPlaystyleID.1539590992309": {
+                    "value": "23",
+                    "startDate": "2019-08-30T14:52:00.004Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-24T12:04:40.627Z"
+                },
+                "ClassTechniquesTriggeredSplitByClasses.PlayerPlaystyleID.1539590992322": {
+                    "value": "15",
+                    "startDate": "2019-08-30T14:52:00.004Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-21T21:25:41.396Z"
+                },
+                "ClassTechniquesTriggeredSplitByClasses.PlayerPlaystyleID.1539591007733": {
+                    "value": "5",
+                    "startDate": "2019-08-30T14:52:00.004Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-27T21:24:23.550Z"
+                },
+                "ConvoysStopped": {
+                    "value": "48",
+                    "startDate": "2019-06-07T09:42:00.925Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-27T21:17:52.043Z"
+                },
+                "CoopGlobalPlaytime": {
+                    "value": "198027",
+                    "startDate": "2019-08-03T07:54:00.396Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.CoopGlobalPlaytime": "198027"
+                    },
+                    "lastModified": "2019-10-27T21:22:55.091Z"
+                },
+                "DistanceTotal": {
+                    "value": "1711.25",
+                    "startDate": "2019-08-03T08:05:00.864Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.DistanceTotal": "1711.25"
+                    },
+                    "lastModified": "2019-10-27T21:22:55.091Z"
+                },
+                "DroidsKilledTotal": {
+                    "value": "624",
+                    "startDate": "2019-06-07T09:50:00.937Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-27T21:22:55.090Z"
+                },
+                "EnemiesKilledTotal": {
+                    "value": "6386",
+                    "startDate": "2019-08-02T16:46:00.611Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.EnemiesKilledTotal": "6386"
+                    },
+                    "lastModified": "2019-10-27T21:22:55.091Z"
+                },
+                "GoliathsKilledTotal": {
+                    "value": "18",
+                    "startDate": "2019-06-07T10:22:00.696Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-27T21:17:52.042Z"
+                },
+                "HeadshotsKillsTotal": {
+                    "value": "3385",
+                    "startDate": "2019-06-07T10:23:00.072Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-27T21:17:52.043Z"
+                },
+                "HuntersKilledTotal": {
+                    "value": "30",
+                    "startDate": "2019-06-07T10:24:00.039Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-27T21:07:46.782Z"
+                },
+                "LastHandCraftedQuestCompleted": {
+                    "value": "0",
+                    "startDate": "2019-08-31T06:16:00.098Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-27T18:17:25.561Z"
+                },
+                "LastMatchmakingMoodUsed": {
+                    "value": "3",
+                    "startDate": "2019-08-31T06:19:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-08T18:08:31.271Z"
+                },
+                "LastProvinceVisited": {
+                    "value": "1403621612485",
+                    "startDate": "2019-08-31T06:26:00.018Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-27T21:17:22.894Z"
+                },
+                "LastRankedUpClass.isPlaystyleRankLevelUp.true": {
+                    "value": "1539591007733",
+                    "startDate": "2019-08-31T06:48:00.568Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-22T09:31:36.898Z"
+                },
+                "LongRangeKillsTotal": {
+                    "value": "579",
+                    "startDate": "2019-06-07T10:26:00.702Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-27T21:07:47.206Z"
+                },
+                "LongestRangeKillsDistance": {
+                    "value": "1071",
+                    "startDate": "2019-06-07T10:25:00.006Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-15T19:10:13.694Z"
+                },
+                "MainQuestsCompleted": {
+                    "value": "28",
+                    "startDate": "2019-06-07T10:26:00.057Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-23T12:37:23.738Z"
+                },
+                "MarkedHumanKillsRatio": {
+                    "value": "0.86",
+                    "startDate": "2019-06-07T10:27:00.758Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-24T12:19:19.928Z"
+                },
+                "MaxClassRankSplitByClasses.PlayerPlaystyleID.1539590992295": {
+                    "value": "10",
+                    "startDate": "2019-08-31T06:43:00.098Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-21T23:55:41.123Z"
+                },
+                "MaxClassRankSplitByClasses.PlayerPlaystyleID.1539590992309": {
+                    "value": "10",
+                    "startDate": "2019-08-31T06:43:00.098Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-09T14:34:48.241Z"
+                },
+                "MaxClassRankSplitByClasses.PlayerPlaystyleID.1539590992322": {
+                    "value": "10",
+                    "startDate": "2019-08-31T06:43:00.098Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-21T21:20:38.659Z"
+                },
+                "MaxClassRankSplitByClasses.PlayerPlaystyleID.1539591007733": {
+                    "value": "10",
+                    "startDate": "2019-08-31T06:43:00.098Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-23T13:31:15.680Z"
+                },
+                "PVPMatchesPlayed": {
+                    "value": "0",
+                    "startDate": "2019-08-03T08:16:00.074Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-04T10:25:05.022Z"
+                },
+                "PVPMatchesWon": {
+                    "value": "0",
+                    "startDate": "2019-06-07T10:31:00.636Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-04T10:25:05.022Z"
+                },
+                "PVPRoundsPlayed": {
+                    "value": "0",
+                    "startDate": "2019-06-07T10:33:00.732Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-04T10:25:05.023Z"
+                },
+                "PlayerKillsPVP": {
+                    "value": "5",
+                    "startDate": "2019-06-07T10:29:00.653Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-22T10:46:18.182Z"
+                },
+                "PlayerLevel": {
+                    "value": "30",
+                    "startDate": "2019-06-07T10:29:00.597Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-14T17:49:09.637Z"
+                },
+                "PlayerRevivedCount": {
+                    "value": "62",
+                    "startDate": "2019-08-31T07:46:00.837Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-27T16:38:06.503Z"
+                },
+                "ProceduralQuestsCompleted": {
+                    "value": "121",
+                    "startDate": "2019-06-07T10:30:00.971Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-27T20:27:53.803Z"
+                },
+                "ProvinceDiscovered.isNewProvinceDiscovered.true": {
+                    "value": "19",
+                    "startDate": "2019-09-20T07:00:00.405Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-15T15:36:34.042Z"
+                },
+                "PvPGlobalPlaytime": {
+                    "value": "0",
+                    "startDate": "2019-08-03T08:21:00.856Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-04T10:25:05.023Z"
+                },
+                "RaidBossKilledTotal": {
+                    "value": "0",
+                    "startDate": "2019-08-03T08:17:00.631Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-04T10:25:05.022Z"
+                },
+                "RaidsFinished": {
+                    "value": "0",
+                    "startDate": "2019-08-03T08:17:00.411Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-04T10:25:05.022Z"
+                },
+                "SoloGlobalPlaytime": {
+                    "value": "109762",
+                    "startDate": "2019-08-03T08:18:00.443Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.SoloGlobalPlaytime": "109762"
+                    },
+                    "lastModified": "2019-10-27T19:07:39.642Z"
+                },
+                "StealthHumanKillsRatio": {
+                    "value": "0.47",
+                    "startDate": "2019-06-07T10:35:00.395Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-27T15:13:42.714Z"
+                },
+                "StoryCollectiblesFound": {
+                    "value": "96",
+                    "startDate": "2019-06-07T10:35:00.388Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-27T20:32:26.521Z"
+                },
+                "StoryCompletionRatio": {
+                    "value": "1",
+                    "startDate": "2019-06-07T10:36:00.971Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-23T12:37:23.723Z"
+                },
+                "TotalGearLooted": {
+                    "value": "832",
+                    "startDate": "2019-06-07T10:36:00.476Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-27T21:17:52.047Z"
+                },
+                "TotalTimeInProneCamo.HiddenStateContext.0": {
+                    "value": "7417.66",
+                    "startDate": "2019-08-31T06:22:00.643Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-27T19:27:20.568Z"
+                },
+                "TotalWeaponsLooted": {
+                    "value": "1050",
+                    "startDate": "2019-06-07T10:37:00.867Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-27T21:17:52.047Z"
+                },
+                "WalkerKills": {
+                    "value": "2",
+                    "startDate": "2019-09-20T06:50:00.611Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-12T13:56:24.727Z"
+                },
+                "WorldDiscovery": {
+                    "value": "0.06",
+                    "startDate": "2019-07-25T12:40:00.147Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-12T16:40:00.200Z"
+                },
+                "eSkredsTotalGained": {
+                    "value": "749507",
+                    "startDate": "2019-06-07T09:51:00.848Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-27T21:17:52.043Z"
+                },
+                "eSkredsTotalSpent": {
+                    "value": "442550",
+                    "startDate": "2019-08-03T08:06:00.037Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.eSkredsTotalSpent": "442550"
+                    },
+                    "lastModified": "2019-10-27T21:22:55.090Z"
+                },
+                "iLevelPlayer": {
+                    "value": "245",
+                    "startDate": "2019-06-07T10:24:00.734Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-27T21:17:52.043Z"
+                }
+            }
+        },
+        {
+            "profileId": "16c30c5f-4e97-455b-8123-3e6743bda427",
+            "stats": {
+                "AchievementsUnlocked": {
+                    "value": "29",
+                    "startDate": "2019-06-07T09:40:00.350Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-27T17:27:54.672Z"
+                },
+                "BivouacsDiscovered": {
+                    "value": "74",
+                    "startDate": "2019-08-03T07:53:00.659Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.BivouacDiscovered": "74"
+                    },
+                    "lastModified": "2019-10-27T17:02:41.423Z"
+                },
+                "CQCKillsTotal": {
+                    "value": "27",
+                    "startDate": "2019-08-03T08:04:00.578Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.CQCKillsTotal": "27"
+                    },
+                    "lastModified": "2019-10-27T16:57:45.735Z"
+                },
+                "CarriedAllyPlayerBodyCountInPVE.GameMode.COOP": {
+                    "value": "7",
+                    "startDate": "2019-08-30T12:01:00.841Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-27T17:36:22.696Z"
+                },
+                "CarriedAllyPlayerBodyCountInPVE.GameMode.SinglePlayer": {
+                    "value": "3",
+                    "startDate": "2019-08-30T12:01:00.841Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-27T14:39:13.747Z"
+                },
+                "ClassTechniquesTriggeredSplitByClasses.PlayerPlaystyleID.1539590992309": {
+                    "value": "51",
+                    "startDate": "2019-08-30T14:52:00.004Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-27T17:36:22.696Z"
+                },
+                "ClassTechniquesTriggeredSplitByClasses.PlayerPlaystyleID.1539591007733": {
+                    "value": "0",
+                    "startDate": "2019-08-30T14:52:00.004Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-14T17:59:07.084Z"
+                },
+                "ConvoysStopped": {
+                    "value": "17",
+                    "startDate": "2019-06-07T09:42:00.925Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-27T14:57:22.712Z"
+                },
+                "CoopGlobalPlaytime": {
+                    "value": "93375",
+                    "startDate": "2019-08-03T07:54:00.396Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.CoopGlobalPlaytime": "93375"
+                    },
+                    "lastModified": "2019-10-27T17:33:00.373Z"
+                },
+                "DistanceTotal": {
+                    "value": "613.94",
+                    "startDate": "2019-08-03T08:05:00.864Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.DistanceTotal": "613.94"
+                    },
+                    "lastModified": "2019-10-27T17:33:00.374Z"
+                },
+                "DroidsKilledTotal": {
+                    "value": "212",
+                    "startDate": "2019-06-07T09:50:00.937Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-27T17:22:52.391Z"
+                },
+                "EnemiesKilledTotal": {
+                    "value": "1716",
+                    "startDate": "2019-08-02T16:46:00.611Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.EnemiesKilledTotal": "1716"
+                    },
+                    "lastModified": "2019-10-27T17:33:00.373Z"
+                },
+                "GoliathsKilledTotal": {
+                    "value": "1",
+                    "startDate": "2019-06-07T10:22:00.696Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-27T17:22:52.390Z"
+                },
+                "HeadshotsKillsTotal": {
+                    "value": "1033",
+                    "startDate": "2019-06-07T10:23:00.072Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-27T17:33:00.373Z"
+                },
+                "HuntersKilledTotal": {
+                    "value": "2",
+                    "startDate": "2019-06-07T10:24:00.039Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-21T11:14:49.669Z"
+                },
+                "LastHandCraftedQuestCompleted": {
+                    "value": "1831951936157",
+                    "startDate": "2019-08-31T06:16:00.098Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-27T16:39:27.765Z"
+                },
+                "LastProvinceVisited": {
+                    "value": "1403621612481",
+                    "startDate": "2019-08-31T06:26:00.018Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-27T17:13:15.224Z"
+                },
+                "LastRankedUpClass.isPlaystyleRankLevelUp.true": {
+                    "value": "1539590992309",
+                    "startDate": "2019-08-31T06:48:00.568Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-15T18:01:27.995Z"
+                },
+                "LongRangeKillsTotal": {
+                    "value": "206",
+                    "startDate": "2019-06-07T10:26:00.702Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-27T17:33:00.374Z"
+                },
+                "LongestRangeKillsDistance": {
+                    "value": "374",
+                    "startDate": "2019-06-07T10:25:00.006Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-15T18:32:16.058Z"
+                },
+                "MainQuestsCompleted": {
+                    "value": "22",
+                    "startDate": "2019-06-07T10:26:00.057Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-27T16:17:43.767Z"
+                },
+                "MarkedHumanKillsRatio": {
+                    "value": "0.92",
+                    "startDate": "2019-06-07T10:27:00.758Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-22T11:58:06.891Z"
+                },
+                "MaxClassRankSplitByClasses.PlayerPlaystyleID.1539590992309": {
+                    "value": "6",
+                    "startDate": "2019-08-31T06:43:00.098Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-27T16:14:12.445Z"
+                },
+                "MaxClassRankSplitByClasses.PlayerPlaystyleID.1539591007733": {
+                    "value": "2",
+                    "startDate": "2019-08-31T06:43:00.098Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-14T17:53:33.789Z"
+                },
+                "PVPMatchesPlayed": {
+                    "value": "0",
+                    "startDate": "2019-08-03T08:16:00.074Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-05T14:47:45.237Z"
+                },
+                "PVPMatchesWon": {
+                    "value": "0",
+                    "startDate": "2019-06-07T10:31:00.636Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-05T14:47:45.237Z"
+                },
+                "PVPRoundsPlayed": {
+                    "value": "0",
+                    "startDate": "2019-06-07T10:33:00.732Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-05T14:47:45.238Z"
+                },
+                "PlayerKillsPVP": {
+                    "value": "14",
+                    "startDate": "2019-06-07T10:29:00.653Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-27T17:12:45.937Z"
+                },
+                "PlayerLevel": {
+                    "value": "30",
+                    "startDate": "2019-06-07T10:29:00.597Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-27T17:22:52.391Z"
+                },
+                "PlayerRevivedCount": {
+                    "value": "38",
+                    "startDate": "2019-08-31T07:46:00.837Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-27T17:12:45.935Z"
+                },
+                "ProceduralQuestsCompleted": {
+                    "value": "34",
+                    "startDate": "2019-06-07T10:30:00.971Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-27T15:57:31.964Z"
+                },
+                "ProvinceDiscovered.isNewProvinceDiscovered.true": {
+                    "value": "19",
+                    "startDate": "2019-09-20T07:00:00.405Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-22T11:17:48.786Z"
+                },
+                "PvPGlobalPlaytime": {
+                    "value": "0",
+                    "startDate": "2019-08-03T08:21:00.856Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-05T14:47:45.237Z"
+                },
+                "RaidBossKilledTotal": {
+                    "value": "0",
+                    "startDate": "2019-08-03T08:17:00.631Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-05T14:47:45.237Z"
+                },
+                "RaidsFinished": {
+                    "value": "0",
+                    "startDate": "2019-08-03T08:17:00.411Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-05T14:47:45.236Z"
+                },
+                "SoloGlobalPlaytime": {
+                    "value": "26332",
+                    "startDate": "2019-08-03T08:18:00.443Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.SoloGlobalPlaytime": "26332"
+                    },
+                    "lastModified": "2019-10-27T14:42:44.034Z"
+                },
+                "StealthHumanKillsRatio": {
+                    "value": "0.42",
+                    "startDate": "2019-06-07T10:35:00.395Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-27T16:07:38.734Z"
+                },
+                "StoryCollectiblesFound": {
+                    "value": "18",
+                    "startDate": "2019-06-07T10:35:00.388Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-24T09:57:21.985Z"
+                },
+                "StoryCompletionRatio": {
+                    "value": "0.79",
+                    "startDate": "2019-06-07T10:36:00.971Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-27T16:17:43.767Z"
+                },
+                "TotalGearLooted": {
+                    "value": "291",
+                    "startDate": "2019-06-07T10:36:00.476Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-27T17:22:52.391Z"
+                },
+                "TotalTimeInProneCamo.HiddenStateContext.0": {
+                    "value": "583.28",
+                    "startDate": "2019-08-31T06:22:00.643Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-27T16:13:11.412Z"
+                },
+                "TotalWeaponsLooted": {
+                    "value": "331",
+                    "startDate": "2019-06-07T10:37:00.867Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-27T17:33:00.372Z"
+                },
+                "WorldDiscovery": {
+                    "value": "0.05",
+                    "startDate": "2019-07-25T12:40:00.147Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-20T22:11:33.231Z"
+                },
+                "eSkredsTotalGained": {
+                    "value": "277641",
+                    "startDate": "2019-06-07T09:51:00.848Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-27T17:27:54.672Z"
+                },
+                "eSkredsTotalSpent": {
+                    "value": "119550",
+                    "startDate": "2019-08-03T08:06:00.037Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.eSkredsTotalSpent": "119550"
+                    },
+                    "lastModified": "2019-10-27T17:22:52.390Z"
+                },
+                "iLevelPlayer": {
+                    "value": "184",
+                    "startDate": "2019-06-07T10:24:00.734Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-27T17:07:45.513Z"
+                }
+            }
+        },
+        {
+            "profileId": "c6f91dbf-4414-48b9-a9ac-a37d5cf8a2ab",
+            "stats": {
+                "AchievementsUnlocked": {
+                    "value": "42",
+                    "startDate": "2019-06-07T09:40:00.350Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-23T17:45:55.474Z"
+                },
+                "BivouacsDiscovered": {
+                    "value": "103",
+                    "startDate": "2019-08-03T07:53:00.659Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.BivouacDiscovered": "103"
+                    },
+                    "lastModified": "2019-10-22T14:47:13.752Z"
+                },
+                "CQCKillsTotal": {
+                    "value": "76",
+                    "startDate": "2019-08-03T08:04:00.578Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.CQCKillsTotal": "76"
+                    },
+                    "lastModified": "2019-10-27T20:28:09.800Z"
+                },
+                "CarriedAllyPlayerBodyCountInPVE.GameMode.COOP": {
+                    "value": "0",
+                    "startDate": "2019-08-30T12:01:00.841Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-27T20:48:20.334Z"
+                },
+                "CarriedAllyPlayerBodyCountInPVE.GameMode.SinglePlayer": {
+                    "value": "2",
+                    "startDate": "2019-08-30T12:01:00.841Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-22T15:13:33.776Z"
+                },
+                "ClassTechniquesTriggeredSplitByClasses.PlayerPlaystyleID.1539590992295": {
+                    "value": "16",
+                    "startDate": "2019-08-30T14:52:00.004Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-20T10:22:27.588Z"
+                },
+                "ClassTechniquesTriggeredSplitByClasses.PlayerPlaystyleID.1539590992309": {
+                    "value": "49",
+                    "startDate": "2019-08-30T14:52:00.004Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-13T16:44:34.851Z"
+                },
+                "ClassTechniquesTriggeredSplitByClasses.PlayerPlaystyleID.1539590992322": {
+                    "value": "23",
+                    "startDate": "2019-08-30T14:52:00.004Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-27T20:48:20.352Z"
+                },
+                "ConvoysStopped": {
+                    "value": "27",
+                    "startDate": "2019-06-07T09:42:00.925Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-27T20:13:32.680Z"
+                },
+                "CoopGlobalPlaytime": {
+                    "value": "51925",
+                    "startDate": "2019-08-03T07:54:00.396Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.CoopGlobalPlaytime": "51925"
+                    },
+                    "lastModified": "2019-10-27T20:48:20.334Z"
+                },
+                "DistanceTotal": {
+                    "value": "1026.92",
+                    "startDate": "2019-08-03T08:05:00.864Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.DistanceTotal": "1026.92"
+                    },
+                    "lastModified": "2019-10-27T20:48:20.335Z"
+                },
+                "DroidsKilledTotal": {
+                    "value": "328",
+                    "startDate": "2019-06-07T09:50:00.937Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-27T20:48:20.335Z"
+                },
+                "EnemiesKilledTotal": {
+                    "value": "4262",
+                    "startDate": "2019-08-02T16:46:00.611Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.EnemiesKilledTotal": "4262"
+                    },
+                    "lastModified": "2019-10-27T20:48:20.335Z"
+                },
+                "GoliathsKilledTotal": {
+                    "value": "7",
+                    "startDate": "2019-06-07T10:22:00.696Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-19T07:55:22.503Z"
+                },
+                "HeadshotsKillsTotal": {
+                    "value": "2464",
+                    "startDate": "2019-06-07T10:23:00.072Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-27T20:33:12.028Z"
+                },
+                "HuntersKilledTotal": {
+                    "value": "2",
+                    "startDate": "2019-06-07T10:24:00.039Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-27T19:28:09.110Z"
+                },
+                "LastHandCraftedQuestCompleted": {
+                    "value": "0",
+                    "startDate": "2019-08-31T06:16:00.098Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-23T17:38:51.277Z"
+                },
+                "LastMatchmakingMoodUsed": {
+                    "value": "3",
+                    "startDate": "2019-08-31T06:19:00.000Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-08T17:30:23.269Z"
+                },
+                "LastProvinceVisited": {
+                    "value": "1403621612507",
+                    "startDate": "2019-08-31T06:26:00.018Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-27T20:43:19.226Z"
+                },
+                "LastRankedUpClass.isPlaystyleRankLevelUp.true": {
+                    "value": "1539590992322",
+                    "startDate": "2019-08-31T06:48:00.568Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-20T10:36:02.104Z"
+                },
+                "LongRangeKillsTotal": {
+                    "value": "511",
+                    "startDate": "2019-06-07T10:26:00.702Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-27T18:58:20.485Z"
+                },
+                "LongestRangeKillsDistance": {
+                    "value": "502",
+                    "startDate": "2019-06-07T10:25:00.006Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-06T13:57:02.730Z"
+                },
+                "MainQuestsCompleted": {
+                    "value": "28",
+                    "startDate": "2019-06-07T10:26:00.057Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-17T18:00:26.220Z"
+                },
+                "MarkedHumanKillsRatio": {
+                    "value": "0.96",
+                    "startDate": "2019-06-07T10:27:00.758Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-23T17:01:01.254Z"
+                },
+                "MaxClassRankSplitByClasses.PlayerPlaystyleID.1539590992295": {
+                    "value": "9",
+                    "startDate": "2019-08-31T06:43:00.098Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-18T08:35:06.693Z"
+                },
+                "MaxClassRankSplitByClasses.PlayerPlaystyleID.1539590992309": {
+                    "value": "10",
+                    "startDate": "2019-08-31T06:43:00.098Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-06T19:09:27.267Z"
+                },
+                "MaxClassRankSplitByClasses.PlayerPlaystyleID.1539590992322": {
+                    "value": "9",
+                    "startDate": "2019-08-31T06:43:00.098Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-23T14:06:45.858Z"
+                },
+                "PVPMatchesPlayed": {
+                    "value": "0",
+                    "startDate": "2019-08-03T08:16:00.074Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-01T04:19:08.656Z"
+                },
+                "PVPMatchesWon": {
+                    "value": "0",
+                    "startDate": "2019-06-07T10:31:00.636Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-01T04:19:08.643Z"
+                },
+                "PVPRoundsPlayed": {
+                    "value": "0",
+                    "startDate": "2019-06-07T10:33:00.732Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-01T04:19:08.655Z"
+                },
+                "PlayerKillsPVP": {
+                    "value": "1",
+                    "startDate": "2019-06-07T10:29:00.653Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-17T17:35:17.105Z"
+                },
+                "PlayerLevel": {
+                    "value": "30",
+                    "startDate": "2019-06-07T10:29:00.597Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-08T15:01:32.758Z"
+                },
+                "PlayerRevivedCount": {
+                    "value": "19",
+                    "startDate": "2019-08-31T07:46:00.837Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-27T20:48:20.334Z"
+                },
+                "ProceduralQuestsCompleted": {
+                    "value": "64",
+                    "startDate": "2019-06-07T10:30:00.971Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-27T20:28:09.799Z"
+                },
+                "ProvinceDiscovered.isNewProvinceDiscovered.true": {
+                    "value": "20",
+                    "startDate": "2019-09-20T07:00:00.405Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-13T19:30:08.888Z"
+                },
+                "PvPGlobalPlaytime": {
+                    "value": "0",
+                    "startDate": "2019-08-03T08:21:00.856Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-01T04:19:08.656Z"
+                },
+                "RaidBossKilledTotal": {
+                    "value": "0",
+                    "startDate": "2019-08-03T08:17:00.631Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-01T04:19:08.656Z"
+                },
+                "RaidsFinished": {
+                    "value": "0",
+                    "startDate": "2019-08-03T08:17:00.411Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-01T04:19:08.655Z"
+                },
+                "SoloGlobalPlaytime": {
+                    "value": "208348",
+                    "startDate": "2019-08-03T08:18:00.443Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.SoloGlobalPlaytime": "208348"
+                    },
+                    "lastModified": "2019-10-27T18:33:08.132Z"
+                },
+                "StealthHumanKillsRatio": {
+                    "value": "0.66",
+                    "startDate": "2019-06-07T10:35:00.395Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-20T11:21:57.407Z"
+                },
+                "StoryCollectiblesFound": {
+                    "value": "110",
+                    "startDate": "2019-06-07T10:35:00.388Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-27T20:38:15.164Z"
+                },
+                "StoryCompletionRatio": {
+                    "value": "1",
+                    "startDate": "2019-06-07T10:36:00.971Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-17T18:00:26.219Z"
+                },
+                "TotalGearLooted": {
+                    "value": "639",
+                    "startDate": "2019-06-07T10:36:00.476Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-27T20:48:20.336Z"
+                },
+                "TotalTimeInProneCamo.HiddenStateContext.0": {
+                    "value": "471.91",
+                    "startDate": "2019-08-31T06:22:00.643Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-22T14:23:31.233Z"
+                },
+                "TotalWeaponsLooted": {
+                    "value": "746",
+                    "startDate": "2019-06-07T10:37:00.867Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-27T20:48:20.334Z"
+                },
+                "WalkerKills": {
+                    "value": "1",
+                    "startDate": "2019-09-20T06:50:00.611Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-08T14:26:11.342Z"
+                },
+                "WorldDiscovery": {
+                    "value": "0.03",
+                    "startDate": "2019-07-25T12:40:00.147Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-03T12:40:57.384Z"
+                },
+                "eSkredsTotalGained": {
+                    "value": "406266",
+                    "startDate": "2019-06-07T09:51:00.848Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-27T20:48:20.335Z"
+                },
+                "eSkredsTotalSpent": {
+                    "value": "282600",
+                    "startDate": "2019-08-03T08:06:00.037Z",
+                    "endDate": null,
+                    "obj": {
+                        "customAttributes.eSkredsTotalSpent": "282600"
+                    },
+                    "lastModified": "2019-10-27T20:48:20.336Z"
+                },
+                "iLevelPlayer": {
+                    "value": "239",
+                    "startDate": "2019-06-07T10:24:00.734Z",
+                    "endDate": null,
+                    "obj": {},
+                    "lastModified": "2019-10-27T20:08:30.426Z"
+                }
+            }
+        },
+        {
             "profileId": "01b979a8-8a1d-4d36-84a7-4baccf098e44",
             "stats": {
                 "AchievementsUnlocked": {
