@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/grbp-stats/wildlands/build/static/css/main.b100e6da.chunk.css",
-    "main.js": "/grbp-stats/wildlands/build/static/js/main.19bcfc22.chunk.js",
-    "main.js.map": "/grbp-stats/wildlands/build/static/js/main.19bcfc22.chunk.js.map",
+    "main.js": "/grbp-stats/wildlands/build/static/js/main.d05a382b.chunk.js",
+    "main.js.map": "/grbp-stats/wildlands/build/static/js/main.d05a382b.chunk.js.map",
     "runtime-main.js": "/grbp-stats/wildlands/build/static/js/runtime-main.c263a0b9.js",
     "runtime-main.js.map": "/grbp-stats/wildlands/build/static/js/runtime-main.c263a0b9.js.map",
     "static/js/2.5a7f982d.chunk.js": "/grbp-stats/wildlands/build/static/js/2.5a7f982d.chunk.js",
     "static/js/2.5a7f982d.chunk.js.map": "/grbp-stats/wildlands/build/static/js/2.5a7f982d.chunk.js.map",
     "index.html": "/grbp-stats/wildlands/build/index.html",
-    "precache-manifest.1c6147c8dd65193675bc12fe56801c94.js": "/grbp-stats/wildlands/build/precache-manifest.1c6147c8dd65193675bc12fe56801c94.js",
+    "precache-manifest.53255e29e9e53c00dba9617c7f86af41.js": "/grbp-stats/wildlands/build/precache-manifest.53255e29e9e53c00dba9617c7f86af41.js",
     "service-worker.js": "/grbp-stats/wildlands/build/service-worker.js",
     "static/css/main.b100e6da.chunk.css.map": "/grbp-stats/wildlands/build/static/css/main.b100e6da.chunk.css.map"
   },
@@ -16,6 +16,6 @@
     "static/js/runtime-main.c263a0b9.js",
     "static/js/2.5a7f982d.chunk.js",
     "static/css/main.b100e6da.chunk.css",
-    "static/js/main.19bcfc22.chunk.js"
+    "static/js/main.d05a382b.chunk.js"
   ]
 }

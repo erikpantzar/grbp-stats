@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fd163b9674c230e1d339525c2b1efc65",
+    "revision": "969f7b4f1611202d6ca8d21e4dade06c",
     "url": "/grbp-stats/wildlands/build/index.html"
   },
   {
-    "revision": "924aee888edb58ac1e4b",
+    "revision": "1f1fa2d6cc7707bc4efa",
     "url": "/grbp-stats/wildlands/build/static/css/main.b100e6da.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/grbp-stats/wildlands/build/static/js/2.5a7f982d.chunk.js"
   },
   {
-    "revision": "924aee888edb58ac1e4b",
-    "url": "/grbp-stats/wildlands/build/static/js/main.19bcfc22.chunk.js"
+    "revision": "1f1fa2d6cc7707bc4efa",
+    "url": "/grbp-stats/wildlands/build/static/js/main.d05a382b.chunk.js"
   },
   {
     "revision": "517d6eb0fd33b5fd2b8f",
