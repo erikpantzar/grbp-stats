@@ -26,7 +26,7 @@ class App extends React.Component {
   async componentDidMount() {
     const { url } = this.props
     const data = await fetch(`./${url}`).then(res => res.json())
-
+    
     const mang = data.profiles.map(d => {
       return {
         name: idToName(d.profileId),
