@@ -17,7 +17,12 @@ async function initalizeData() {
       })
     })
 
-  const stats = await fetch('./data/response411.json')
+
+  const hardcoded = '411'
+  const para = window.location.search.replace('?d=', '')
+  const url = `./data/response${para.length ? para : hardcoded}.json`
+
+  const stats = await fetch(url)
     .then(response => response.json())
     .then(data => {
       const profiles = data.profiles.map(profile => {
