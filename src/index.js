@@ -20,7 +20,10 @@ async function initalizeData() {
 
   const hardcoded = '411'
   const para = window.location.search.replace('?d=', '')
-  const url = `./data/response${para.length ? para : hardcoded}.json`
+  const url = `./data/response${para ? para : hardcoded}.json`
+
+  console.log(para)
+  console.log(url)
 
   const stats = await fetch(url)
     .then(response => response.json())
