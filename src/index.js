@@ -22,9 +22,6 @@ async function initalizeData() {
   const para = window.location.search.replace('?d=', '')
   const url = `./data/response${para ? para : hardcoded}.json`
 
-  console.log(para)
-  console.log(url)
-
   const stats = await fetch(url)
     .then(response => response.json())
     .then(data => {
