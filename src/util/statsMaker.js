@@ -37,7 +37,7 @@ function getGearLevelPH(name) {
 
 const getStat = (name, stat) => getStatsFromName(name)[stat].value
 
-const round = (s, length = 5) => `${s}`.substr(0, length)
+const round = (s, length = 6) => `${s}`.substr(0, length)
 
 function statsList(name) {
   const statsContainer = makeElement('ul', 'stats-list')
